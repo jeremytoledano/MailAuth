@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883532634740",
+    "firebase_url": "https://mailauth.firebaseio.com",
+    "project_id": "mailauth",
+    "storage_bucket": "mailauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883532634740:android:cda8f1d71381acf1",
+        "android_client_info": {
+          "package_name": "com.example.toledano.mailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883532634740-gtpfg1glitq0h6p1qjp1uc3q65pmbf6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toledano.mailauth",
+            "certificate_hash": "8cffb59142d4f60d8f7b0a4957e41f8fef49d45d"
+          }
+        },
+        {
+          "client_id": "883532634740-u36fsn8p88a84996dfbfumd5e6ojpvji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQCFLgrztqy5Kf0-WMQZgdRm8Y6WZwWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883532634740-u36fsn8p88a84996dfbfumd5e6ojpvji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
